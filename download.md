@@ -16,5 +16,11 @@ Get the code by doing the following:
  $ sh run_config.sh
 {% endhighlight %}
 
+You can also manually download it here:
+
+{% highlight html %}
+ www.bitbucket.org/rchenmit/epic_phenotyper
+{% endhighlight %}
+
 
 More details found [here](/About/)
