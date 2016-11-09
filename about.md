@@ -7,7 +7,7 @@ permalink: /about/
 # Epic Phenotyper
 
 
-[Computational Phenotyping](http://wwww.sunlab.org) is the fashion forward way to describe disease. The way physicians currently describe disease is inherently biased. 
+[Computational Phenotyping](http://www.sunlab.org) is the fashion forward way to describe disease. The way physicians currently describe disease is inherently biased. 
 A patient's physical state should not be described by ICD codes but rather by physiological signals, symptoms, demographics, and drug-drug interactions. 
 
 You can find the source code for the pipeline at:
