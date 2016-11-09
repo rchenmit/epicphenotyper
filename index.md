@@ -37,9 +37,9 @@ If you use it, please cite [Marble](http://www.sunlab.org/files/4814/0957/7652/M
 
 ## Download
 
-You can download the code [here](/About/)
+You can download the code [here](/Download/)
 
 
 ## Other
 
-You can learn about other technologies at [Sunlab](www.sunlab.org).
+You can learn about other technologies at [Sunlab](http://www.sunlab.org).
