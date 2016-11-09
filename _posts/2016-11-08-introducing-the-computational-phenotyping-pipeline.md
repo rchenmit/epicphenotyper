@@ -15,6 +15,6 @@ Get the code by doing the following:
 {% endhighlight %}
 
 
-More details found [here](/About/)
+More details found [here](/about/)
 
 
