@@ -1,17 +1,21 @@
 ---
 layout: page
-title: Marble
-permalink: /download/
+title: Rubik
+permalink: /rubik/
 ---
 
-# Epic Phenotyper
+# Rubik: Epic Phenotyper
 
+*Rubik* is a phenotyping algorithm based on non-negative tensor factorization. Rubik outputs interpretable, distinct, phenotypes.
+
+
+Code is not public at this time. Please check later if you are intersted.
 
 Get the code by doing the following:
 
 {% highlight bash %}
- $ git clone git@bitbucket.org:rchenmit/epic_phenotyper.git
- $ cd epic_phenotyper
+ $ git clone git@bitbucket.org:rchenmit/epic_rubik.git
+ $ cd epic_rubik
  $ cd pipeline_code
  $ sh run_config.sh
 {% endhighlight %}
@@ -28,8 +32,8 @@ Look at your results afterwards:
 You can also manually download it here:
 
 {% highlight html %}
- www.bitbucket.org/rchenmit/epic_phenotyper
+ www.bitbucket.org/rchenmit/epic_rubik
 {% endhighlight %}
 
 
-More details found [here](/About/)
+More details found [here](/rubik/)
