@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Marble Phenotyping Pipeline
+# Rubik & Marble Phenotyping Pipeline
 
 The way physicians currently describe disease is inherently biased. 
 A patient's physical state should not be described by ICD codes but 
@@ -14,6 +14,8 @@ rather by physiological signals, symptoms, demographics, and drug-drug interacti
 ## Algorithm
 
 This is based on pattern/signal/subtype extraction strategies that leverage non-negative tensor factorization. 
+
+[Rubik](http://www.cc.gatech.edu/~ywang/papers/rubik.pdf) 
 
 [Marble](http://www.sunlab.org/files/4814/0957/7652/MARBLE_tensor_factorization_p115.pdf)
 
@@ -47,6 +49,7 @@ If you use Marble pipeline, please cite [Marble](http://www.sunlab.org/files/481
 ## Download
 
 You can download the code for Marble pipeline [here](/marble/)
+
 You can download the code for Rubik pipeline [here](/rubik/)
 
 
