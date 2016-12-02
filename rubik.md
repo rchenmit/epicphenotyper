@@ -14,17 +14,16 @@ Code is not public at this time. Please check later if you are intersted.
 Get the code by doing the following:
 
 {% highlight bash %}
- $ git clone git@bitbucket.org:rchenmit/epic_rubik.git
- $ cd epic_rubik
- $ cd pipeline_code
- $ sh run_config.sh
+ $ git clone https://github.com/rchenmit/rubik.git
+ $ matlab -nodesktop
+ $ RunThisFile #you can mod RunThisFile.m
 {% endhighlight %}
 
 Look at your results afterwards:
 {% highlight bash %}
- $ cd ../pipeline_runs/NAME_FOR_YOUR_EXPT_alpha_1_gamma_0.001_0.12_0.07/results/
- $ cd xlsx_NAME_FOR_YOUR_EXPT_alpha_1_gamma_0.001_0.12_0.07
- $ open * 
+ $ # you need to have a mapping of indexes to feature names
+ $ # convert <SAVE_FOLDER>/u1.csv to patient memberships
+ $ # convert <SAVE_FOLDER>/u2.csv, etc to feature memberships
 {% endhighlight %}
 
 
@@ -32,7 +31,7 @@ Look at your results afterwards:
 You can also manually download it here:
 
 {% highlight html %}
- www.bitbucket.org/rchenmit/epic_rubik
+   https://github.com/rchenmit/rubik
 {% endhighlight %}
 
 

@@ -6,6 +6,10 @@ permalink: /rubik/
 
 # Rubik: Epic Phenotyper
 
+*Rubik* is a phenotyping algorithm based on non-negative tensor factorization. Rubik outputs interpretable, distinct, phenotypes.
+
+
+Code is not public at this time. Please check later if you are intersted.
 
 Get the code by doing the following:
 
@@ -32,4 +36,4 @@ You can also manually download it here:
 {% endhighlight %}
 
 
-More details found [here](/About/)
+More details found [here](/rubik/)
